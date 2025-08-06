@@ -1,13 +1,12 @@
-# CQI-EVALUATION-TASK-SC
+# CQI-EVALUATION-TASK-SOFTWARE-CONSTRUCTION
 Group CQI Report on Smart Home Automation, Includes Project Definition, FR/NFR, UML, Prototypes
 
 # Smart Home Automation System
 
 ## Group Members:
-- Ayesha Mishree – 02-131222-090
-- Arifa Naseem – 02-131222-096
-- Laiba Shakeel – 02-131222-123
-- Bia Fatima Khan Niazi - 02-131222-116
+- Muneeb ur Rehman - 02-131222-038
+- Muhammad Talha Mohsin - 02-131222-109
+- Muhammad Anas Iqbal - 02-131222-126
 
 ## Submitted to:
 Engr. Muniba Humayun
