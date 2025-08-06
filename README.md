@@ -20,6 +20,6 @@ Engr. Muniba Humayun
 - ✅ Formal Report
 
 ## Instructions:
-All diagrams and prototypes are present in the final compiled report (Docx. file and pdf).
+All diagrams and prototypes are present in the final compiled report (Docx. and pdf Files).
 
 
